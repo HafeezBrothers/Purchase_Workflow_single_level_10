@@ -1,6 +1,6 @@
 {
 
-    'name':'Purchase Order WorkFlows',
+    'name':'Purchase Order WorkFlows (Single Level)',
     'description' : 'PO WorkFlows',
     'author' : 'Hafeez Brothers',
     
